@@ -1,6 +1,6 @@
 Food Delivery App
-Overview
-This is a fully functional Food Delivery application built using React. The app allows users to browse a variety of food items, add them to their cart, place orders, and track their order status. It features a modern and user-friendly interface, making it easy for users to order food from their favorite restaurants.
+Overview:
+This is a fully functional Food Delivery application built using React. The app allows users to browse a variety of food items, add them to their cart, place orders. It features a modern and user-friendly interface, making it easy for users to order food from their favorite restaurants.
 
 Features
 Browse Menu: Users can view a wide selection of food items categorized by type (e.g., appetizers, main courses, desserts).
@@ -9,7 +9,7 @@ Add to Cart: Users can add food items to their cart with a single click and view
 Order Management: Users can place orders, view order details, and track the status of their orders.
 User Authentication: Sign-up and login features for users to manage their accounts and view order history.
 Responsive Design: The application is fully responsive, providing a seamless experience on desktops, tablets, and mobile devices.
-Payment Integration: Integration with payment gateways (like Stripe or PayPal) for processing payments.
+
 Interactive UI: Smooth transitions and animations for an enhanced user experience.
 Technologies Used
 React: For building the user interface and managing the application state.
@@ -29,22 +29,21 @@ npm or yarn
 Installation
 Clone the repository:
 
-bash
-Копировать код
-git clone https://github.com/yourusername/food-delivery-app.git
+
+
+git clone https://github.com/yourusername/food-del.git
 Navigate to the project directory:
 
-bash
-Копировать код
+
 cd food-delivery-app
 Install the dependencies:
 
-bash
-Копировать код
+
+
 npm install
 Start the development server:
 
-bash
-Копировать код
+
+
 npm start
 The app will be available at http://localhost:3000.
